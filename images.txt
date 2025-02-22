@@ -1,6 +1,16 @@
 nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+jxxghp/moviepilot:latest
+metatube/metatube-server:latest
+stainless403/mdcx-builtin-gui-base:latest
+linuxserver/jackett:latest
+nastools/nas-tools:2.9.1
+easychen/cookiecloud:latest
+linuxserver/transmission:4.0.4
+linuxserver/qbittorrent:4.4.0
+amilys/embyserver:latest
+allanpk716/chinesesubfinder:latest
+linuxserver/jellyfin:latest
+jeessy/ddns-go:latest
+metacubex/clash-meta:latest
+jxxghp/moviepilot-v2:latest
